@@ -6,7 +6,7 @@ The **Personal Finance Tracker** is an AI-powered prototype designed to help ind
 
 This project is currently in the **prototype phase**, with plans for further development.
 
-## Features (Planned)
+## Features 
 
 - **Multi-User Support**: Role-based access for individuals and businesses.
 - **Automated Expense Tracking**: Manual and automated data entry for transactions.
@@ -15,7 +15,7 @@ This project is currently in the **prototype phase**, with plans for further dev
 - **Interactive Dashboards**: Visual insights into financial health.
 - **Time Series Forecasting**: AI-driven insights for future financial planning.
 
-## Technology Stack (Planned)
+## Technology Stack 
 
 - **Frontend**: Streamlit, Django, Flask
 - **Backend**: Python, Pandas, NumPy, Scikit-Learn
