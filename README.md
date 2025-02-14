@@ -23,11 +23,6 @@ This project is currently in the **prototype phase**, with plans for further dev
 - **Visualization**: Matplotlib, Seaborn, Power BI
 - **Machine Learning**: Regression models, Time Series Forecasting (ARIMA, Prophet)
 
-## Current Status
-
-✅ Prototype developed with a basic interface.  
-🚀 Future development plans include a full-fledged web and mobile app.  
-
 ## How It Works
 
 1. **User Sign-Up**: Create a profile and set financial goals.
@@ -35,11 +30,11 @@ This project is currently in the **prototype phase**, with plans for further dev
 3. **AI Analysis**: Predictive analytics provides insights on spending trends.
 4. **Dashboard Visualization**: View income, expenses, and future forecasts.
 
-## Monetization Model
 
-- **Freemium**: Free basic tracking with premium AI-powered insights.
-- **Subscription**: ₹499/month for advanced analytics and multi-user access.
-- **Affiliate Partnerships**: Financial service collaborations for revenue sharing.
+## Current Status
+
+✅ Prototype developed with a basic interface.  
+🚀 Future development plans include a full-fledged web and mobile app.  
 
 ## Future Roadmap
 
